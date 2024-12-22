@@ -24,6 +24,7 @@ TMUX is awesome because it lets you manage multiple terminal sessions in one win
    - Split window vertically and open Neovim with `v`.
    - Split window horizontally and open Neovim with `s`.
 9. **Reload TMUX Configuration**: Reload the TMUX configuration with `r`.
+10. **TMUX Resurrect**: Save and restore TMUX environment with `prefix + Ctrl-s` and `prefix + Ctrl-r`.
 
 ## How to Use It
 
